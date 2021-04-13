@@ -1,0 +1,10 @@
+C:\Users\Cherr\source\repos\KursachGraf\KursachGraf\bin\Debug\KursachGraf.exe.config
+C:\Users\Cherr\source\repos\KursachGraf\KursachGraf\bin\Debug\KursachGraf.exe
+C:\Users\Cherr\source\repos\KursachGraf\KursachGraf\bin\Debug\KursachGraf.pdb
+C:\Users\Cherr\source\repos\KursachGraf\KursachGraf\obj\Debug\KursachGraf.csprojAssemblyReference.cache
+C:\Users\Cherr\source\repos\KursachGraf\KursachGraf\obj\Debug\KursachGraf.Form1.resources
+C:\Users\Cherr\source\repos\KursachGraf\KursachGraf\obj\Debug\KursachGraf.Properties.Resources.resources
+C:\Users\Cherr\source\repos\KursachGraf\KursachGraf\obj\Debug\KursachGraf.csproj.GenerateResource.cache
+C:\Users\Cherr\source\repos\KursachGraf\KursachGraf\obj\Debug\KursachGraf.csproj.CoreCompileInputs.cache
+C:\Users\Cherr\source\repos\KursachGraf\KursachGraf\obj\Debug\KursachGraf.exe
+C:\Users\Cherr\source\repos\KursachGraf\KursachGraf\obj\Debug\KursachGraf.pdb
